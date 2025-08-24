@@ -20,8 +20,6 @@ git clone git@github.com:jams246/blazing-fast-idiomatic-rust.git
 cd blazing-fast-idiomatic-rust
 ```
 
-No dependencies were used to remain **blazing fast and idiomatic**.
-
 ## 🏎️ Build and usage
 
 Build it the **blazing fast** way:
